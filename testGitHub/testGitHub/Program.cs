@@ -10,9 +10,9 @@ namespace testGitHub
     {
         static void Main(string[] args)
         {
-            console.writeline("Hello");
+            Console.WriteLine("Hello");
             
-            console.readkey();
+            Console.ReadKey();
         }
     }
 }
